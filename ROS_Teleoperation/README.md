@@ -1,1 +1,1 @@
-
+Arduino file on board the rover. Launch the python file using rosrun and use 'w' 'a' 's' 'd' to move. (any letter to cancel all movement). Keep note, the user must press enter every time to change a command.
