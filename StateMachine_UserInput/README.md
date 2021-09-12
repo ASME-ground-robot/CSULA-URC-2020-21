@@ -1,0 +1,1 @@
+This StateMachine is an example of how the Autonomous Rover will transfer amongst it's States. Instead of sensor values, it will ask for a user input in the case of a number. This will setup the base Statemachine layout.
